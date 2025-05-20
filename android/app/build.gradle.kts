@@ -8,7 +8,7 @@ plugins {
 android {
     namespace = "com.example.safaricom_test"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = 26.3.11579264
+    ndkVersion = 26.3;11579264
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
