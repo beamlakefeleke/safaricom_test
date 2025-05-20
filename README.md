@@ -8,10 +8,10 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-![Screenshot](assets/screenshot1.png)
-![Screenshot](assets/screenshot2.png)
-![Screenshot](assets/screenshot3.png)
-![Screenshot](assets/screenshot4.png)
-![Screenshot](assets/screenshot5.png)
-![Screenshot](assets/screenshot6.png)
-![Screenshot](assets/screenshot7.png)
+![Screenshot](assets/Screenshot1.png)
+![Screenshot](assets/Screenshot2.png)
+![Screenshot](assets/Screenshot3.png)
+![Screenshot](assets/Screenshot4.png)
+![Screenshot](assets/Screenshot5.png)
+![Screenshot](assets/Screenshot6.png)
+![Screenshot](assets/Screenshot7.png)
